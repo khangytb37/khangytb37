@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 ```yaml
-Name: Trần Tuấn Khang
+Name: Tran Tuan Khang
 University: FPT University (FPTU) 🍊
 Major: Artificial Intelligence (AI) 🧠
 Interests: [Software Development, Algorithms, Web Technologies]
