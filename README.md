@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WITH GRADIENT & WAVE ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%20there,%20I'm%20Khang%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20@%20FPT%20University%20🎓&descFontSize=20&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Hi%20there,%20I'm%20KYaS%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Student%20@%20FPT%20University%20🎓&descFontSize=20&descAlignY=60" width="100%" />
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/khangytb37">
